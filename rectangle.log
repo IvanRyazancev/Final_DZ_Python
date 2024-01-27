@@ -1,0 +1,3 @@
+2024-01-27 23:49:33,269 - ERROR - ValueError: invalid literal for int() with base 10: '10 10'
+2024-01-27 23:49:45,216 - ERROR - ValueError: invalid literal for int() with base 10: '10/10'
+2024-01-27 23:57:11,535 - ERROR - ValueError: invalid literal for int() with base 10: ''
